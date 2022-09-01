@@ -12,3 +12,4 @@ CSS
 Jquery
 
 # LIVE DEMO:
+https://n-puzzle-game.vercel.app/
