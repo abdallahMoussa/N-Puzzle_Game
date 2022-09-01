@@ -1,0 +1,33 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>N Puzzle Game</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+    <script src="script.js"></script>  
+</head>
+<body>
+    <div class="play">
+        <div class="time">
+            <div class="timing">
+                <div class="numbers">
+                    <p><span id="hours">00</span>:<span id="minutes">00</span>:<span id="seconds">00</span></p>
+                </div>
+                <div class="actions">
+                    <button id="play">Start</button>
+                </div>
+            </div>
+        </div>
+       <div class="playing">
+            <div class="gameBoard"></div>
+            <div class="cover"></div>
+       </div>
+
+    </div>
+        <div class="winning">
+            <span>Congratulation</span><br>
+            <span id="score"></span><br>
+            <button>Play Again</button>
+        </div>
+</body>
+</html>
