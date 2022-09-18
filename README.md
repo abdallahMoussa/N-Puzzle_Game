@@ -7,9 +7,10 @@ simple funny game. made By JavaScript
 try to rearange numbers by moving the empty square between numbers to arange it.
 
 # Tech:
-HTML
-CSS
-Jquery
+- HTML
+- CSS
+- JavaScript
+- Jquery
 
 # LIVE DEMO:
 https://n-puzzle-game.vercel.app/
